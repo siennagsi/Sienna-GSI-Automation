@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=b303&id=1-UsSHIhsOL5TEf2eFn1C80WCsXqVFwQqip
+  ROM_URL: https://drive.google.com/uc?export=download&id=1-UsSHIhsOL5TEf2eFn1C80WCsXqVFwQq
   ROM_NAME: MIUI
   ZIP_NAME: MIUI12WHYRED
   TZ: Asia/Kolkata
