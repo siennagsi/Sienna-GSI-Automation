@@ -1,6 +1,6 @@
 name: MIUI GSI..
 
-off:
+on:
 #  release:
 #    types: [published]
 #  push:
@@ -14,7 +14,7 @@ off:
     types: [started]
     
 env:
-  ROM_URL: https://qc3.androidfilehost.com/dl/jeWuaHRq0P_DG8Rrtrdu1Q/1594065813/8889791610682873489/xiaomi.eu_multi_HMNote5Pro_20.6.18_v12-9.zip
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=b303&id=1-UsSHIhsOL5TEf2eFn1C80WCsXqVFwQqip
   ROM_NAME: MIUI
   ZIP_NAME: MIUI12WHYRED
   TZ: Asia/Kolkata
